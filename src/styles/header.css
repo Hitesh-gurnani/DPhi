@@ -1,0 +1,10 @@
+.Logo
+{
+    background-color:white;
+}
+img
+{
+    transform:translateX(40%);
+    width:110px;
+    height:60px;
+}
